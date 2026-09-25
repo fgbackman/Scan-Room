@@ -1,0 +1,8 @@
+{
+  "name": "ClutterSense AI - Smart Room Organizer & Declutter Studio",
+  "description": "Upload photos of any room to get instant AI-powered decluttering action plans, space zoning, storage solutions, and multi-turn organization coaching powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
